@@ -1,28 +1,29 @@
 {
-  "title":"Write the name of your script here",
-  "description":"Write a short description of what your script does here",
+  "title":"UBC Orchard Commons",
+  "description":"This Grasshopper script generates precast concrete cladding panels for the tower facades",
   "coverImage":"./_PW/cover.png",
   "authors":[{
-    "name":"Kyle Example",
-    "email":"kyle.example@example.com",
-    "role":"developer"
+    "name":"Santiago Diaz",
+    "email":"Santiago.Diaz@perkinswill.com",
+    "role":"designer"
   }],
   "offices":[
-    "NewYork",
-    "SanFrancisco"
+    "Vancouver"
   ],
   "projects":[{
-    "name":"Example Project",
-    "number":"123456.000",
-	"marketSector":"CCC"
+    "name":"UBC Orchard Commons",
+    "number":"411332.000",
+	"marketSector":"Higher Ed"
   }],
   "dependencies":[{
-    "author":"Autodesk",
-    "name":"Revit",
-    "version":"2016"
+    "author":"McNeel",
+    "name":"Grasshopper",
+    "version":"0.9.0076"
   }],
   "tags":[
-    "boilerplate",
-    "example"
+    "optimization",
+    "concrete",
+    "set-based design",
+    "distill design intent"
   ]
 }
